@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#9c4a5a"/>
+  <g stroke-linecap="round">
+    <line x1="236" y1="300" x2="404" y2="96" stroke="#f0d49c" stroke-width="20"/>
+    <line x1="256" y1="320" x2="440" y2="168" stroke="#f0d49c" stroke-width="20"/>
+  </g>
+  <circle cx="404" cy="96" r="24" fill="#f6ede4"/>
+  <circle cx="440" cy="168" r="24" fill="#f6ede4"/>
+  <circle cx="226" cy="300" r="134" fill="#f6ede4"/>
+  <clipPath id="b"><circle cx="226" cy="300" r="134"/></clipPath>
+  <g clip-path="url(#b)" fill="none" stroke="#d99aa6" stroke-width="13" stroke-linecap="round">
+    <path d="M110 220 C 180 260, 250 250, 330 190"/>
+    <path d="M96 280 C 180 320, 270 300, 356 236"/>
+    <path d="M100 344 C 190 380, 280 360, 360 300"/>
+    <path d="M130 400 C 200 420, 280 410, 340 370"/>
+    <path d="M200 170 C 160 250, 170 350, 230 440"/>
+  </g>
+</svg>
